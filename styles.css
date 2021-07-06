@@ -1,9 +1,15 @@
-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+* {
+  margin: 0;
+  padding: 0;
 }
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 h1 {
-    color: blue;
-    font-size: 55px;
+  color: blue;
+  font-size: 55px;
 }
