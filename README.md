@@ -4,7 +4,7 @@
 
 > First Mircroverse project.
 
-![screenshot] <img width="1440" alt="Screen Shot 2021-07-07 at 1 49 02 AM" src="https://user-images.githubusercontent.com/69011963/124665091-bdd97200-dec5-11eb-8c70-dafe288cf167.png">
+<img width="1440" alt="Screen Shot 2021-07-07 at 1 49 02 AM" src="https://user-images.githubusercontent.com/69011963/124665091-bdd97200-dec5-11eb-8c70-dafe288cf167.png">
 
 
 Additional description about the project and its features.
