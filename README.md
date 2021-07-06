@@ -12,7 +12,7 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Html
+- HTML
 - CSS
 
 ## Getting Started
@@ -30,12 +30,12 @@ To get a local copy up and running follow these simple example steps.
 
 To clone this repo go to "https://github.com/Rustamxon7/Hello-world"
 
-## Authors
+## Author
 
-👤 **Rostam**
+👤 **Rustamxon**
 
 - GitHub: [@githubhandle](https://github.com/Rustamxon7)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rustamjon-tolipov-6a831020b/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rustamjon-tolipov-6a831020b)
 
 ## 🤝 Contributing
 
