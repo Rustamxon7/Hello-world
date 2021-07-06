@@ -14,6 +14,7 @@ Twitter: @Rustamxon7777
 LinkedIn: https://www.linkedin.com/in/rustamjon-tolipov-6a831020b/
 
 
-screenshot /Users/rustamjon/Hello-World/Screen Shot 2021-07-06 at 6.28.47 PM.png
+screenshot ![Screen Shot 2021-07-06 at 6 28 47 PM](https://user-images.githubusercontent.com/69011963/124618485-45f15480-de91-11eb-8384-26cc434b5953.png)
+
 
 🤝 Contributing
