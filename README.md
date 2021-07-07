@@ -30,11 +30,11 @@ To get a local copy up and running follow these simple example steps.
 
 To clone this repo go to "https://github.com/Rustamxon7/Hello-world"
 
-git clone your repo
+- git clone your repo
 
-cd into the folder
+- cd into the folder
 
-open index.html with live server
+- open index.html with live server
 
 ## Author
 
